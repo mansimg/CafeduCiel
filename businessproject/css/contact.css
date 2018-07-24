@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+@import url("https://fonts.googleapis.com/css?family=Oranienbaum");
+@import url("https://fonts.googleapis.com/css?family=Homemade+Apple");
+#banner{
+  font-family:'Bad Script', cursive;
+  margin-top:70px;
+  text-align: left;
+  width:375px;
+  padding:25px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:60px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+
+h1{
+  font-family:'Bad Script', cursive;
+  margin-top:70px;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+  width:375px;
+  font-size:60px;
+  border: 15px solid #f4e7d7;
+  border-radius:10px;
+  border-width: medium;
+}
+
+
+/* h1{
+  border: 15px solid transparent;
+  padding: 10px;
+  border-image:url("fancyborder.jpg")10% round;
+} */
+
+body{
+  background-color: #DEB887;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFAFA;
+    ;
+
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: 'Homemade Apple', cursive;
+  font-size: px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #F5F5F5;
+}
+
+.active {
+  background-color: #C0C0C0;
+}
+p{
+  text-align: center;
+}
+.regular{
+  font-size: 24px;
+  font-family: 'Gentium Book Basic', serif;
+  text-align:left;
+}
+
+.regular2{
+  font-size: 23px;
+  font-family: 'Gentium Book Basic', serif;
+  text-align:center;
+}
+
+#Banner2{
+  font-family: 'Gentium Book Basic', serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+
+}
+h3{
+  font-family: "Oranienbaum", serif;
+  font-size:36px;
+  font-weight:25;
+  text-align:left;
+  border-style: solid;
+  border-width:medium;
+  border-color: #f4e7d7;
+
+}
+h3.right{
+  text-align: right;
+}
+form{
+  font-family: "Homemade Apple", cursive;
+}
+input{
+  font-family: 'Gentium Book Basic', serif;
+}
+p.title{
+    font-family:'Bad Script', cursive;
+    font-size: 36px;
+    font-weight:bold;
+}
+#map {
+  height: 400px;
+  width: 100%;
+}
+#Banner5{
+  font-family: 'Gentium Book Basic', serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+#haha{
+  font-family: "Homemade Apple",cursive;
+  font-weight: bold;
+  font-size: 36px;
+  text-align: center;
+}
+td.contact {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 50px;
+}

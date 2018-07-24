@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Homemade+Apple");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+th {
+  font-family:"Homemade Apple", cursive;
+  padding-left:25px;
+  padding-right: 25px;
+  font-size: 24px
+}
+.menu{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
