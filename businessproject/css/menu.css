@@ -1,5 +1,21 @@
 @import url("https://fonts.googleapis.com/css?family=Homemade+Apple");
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+body{
+  background-image: url("https://78.media.tumblr.com/ac87e54146feb3a8fc6330b633f01560/tumblr_noazen7KNu1usir2io2_500.jpg");
+
+}
+h1{
+  font-family:'Bad Script', cursive;
+  margin-top:70px;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+  width:375px;
+  font-size:60px;
+  border: 15px solid #f4e7d7;
+  border-radius:10px;
+  border-width: medium;
+}
 th {
   font-family:"Homemade Apple", cursive;
   padding-left:25px;
@@ -11,4 +27,71 @@ th {
   margin-right: auto;
   text-align: center;
   font-family: "Playfair Display", serif;
+}
+#banner5{
+  font-family: "Playfair Display", serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+#banner6{
+  font-family: "Playfair Display", serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+#banner7{
+  font-family: "Playfair Display", serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+#banner8{
+  font-family: "Playfair Display", serif;
+  margin-top:0px;
+  text-align: left;
+  width:300px;
+  padding:15px;
+  /* margin-right:auto;
+  margin-left:auto; */
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:24px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+footer{
+  background-color:#f4e7d7;
+  color:#000000;
+  padding: 30px;
+  font-size: 18px;
+  font-family: "Homemade Apple", sans-serif;
 }
