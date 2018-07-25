@@ -1,0 +1,49 @@
+Skip to content
+
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @mansimg Sign out
+1
+0 0 amiesuh/CafeduCiel
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+CafeduCiel/css/twitter.css
+15c1dbf  11 hours ago
+@amiesuh amiesuh Add files via upload
+
+19 lines (15 sloc)  368 Bytes
+#twitter_update_list {
+/* the main container */
+}
+
+#twitter_update_list li {
+/* wraps a single list */
+}
+
+#twitter_update_list li span {
+/* wraps the tweet */
+}
+
+#twitter_update_list li a {
+/* wraps the link to the tweet */
+/* by default it have 85% font-size therefore you might want to change it like below */
+font-size:100% !important;
+font-size:13px !important;
+}
+
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
+Press h to open a hovercard with more details.

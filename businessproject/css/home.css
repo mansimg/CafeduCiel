@@ -17,6 +17,7 @@
   z-index:999;
   border-radius:10px;
   color:#281b0b;
+  width:778px;
 }
 
 h1{
@@ -40,7 +41,7 @@ h1{
 } */
 
 body{
-  background-color: #DEB887;
+background-image: url("https://78.media.tumblr.com/ac87e54146feb3a8fc6330b633f01560/tumblr_noazen7KNu1usir2io2_500.jpg");
 }
 ul {
   list-style-type: none;
@@ -50,11 +51,10 @@ ul {
   background-color: #FFFAFA;
     ;
 
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   font-family: 'Homemade Apple', cursive;
-  font-size: px;
 }
 
 li {
@@ -156,8 +156,28 @@ p.title{
   font-size: 36px;
   text-align: center;
 }
-td.contact {
-  margin-right: auto;
-  margin-left: auto;
-  padding-left: 50px;
+#Banner8{
+  font-family:'Gentium Book Basic', serif;
+  margin-top:70px;
+  text-align: left;
+  width:375px;
+  padding:25px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#f4e7d7;
+  opacity:.75;
+  font-size:60px;
+  z-index:999;
+  border-radius:10px;
+  color:#281b0b;
+}
+#cafe{
+  padding-left:90px
+}
+footer{
+  background-color:#f4e7d7;
+  color:#000000;
+  padding: 30px;
+  font-size: 18px;
+  font-family: "Homemade Apple", sans-serif;
 }
